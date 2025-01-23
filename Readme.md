@@ -23,7 +23,7 @@ public class HelloServlet extends HttpsServlet{
     * name: name of the servlet</li>
     * urlPatterns: url pattern of the servlet</li>
 
-When the url is called, the service method is called.  
+    When the url is called, the service method is called.  
 `@Override protected void service(HttpServletRequest request, HttpServletResponse response)`
 
 * Run WebApp
